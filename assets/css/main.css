@@ -1870,7 +1870,7 @@
 		}
 
 		header img{
-			max-height: 2rem;
+			max-height: 5rem;
 		}
 
 	}
@@ -3484,10 +3484,12 @@
 
 			#banner > .inner header {
 				width: auto;
+				height: auto;
 			}
 
 				#banner > .inner header > :first-child {
 					width: auto;
+					height: 6rem;
 				}
 
 					#banner > .inner header > :first-child:after {
